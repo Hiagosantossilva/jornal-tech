@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.cardnews2 {
+width: 30%;
+height: 20%;
+margin: 1%;
+padding:0px;
+border-radius: 5px;
+background-color: black;
+overflow: hidden;
+float: left;
+justify-content: center;
+align-items: center;
+flex-grow: 2;
+}
+.cardnews2{
+flex-direction: row;
+flex-wrap: wrap;	
+justify-content: center;
+align-content: center;
+flex-grow: 2;
+}
+.legenda{
+top:0;
+left:0;
+text-align:start;
+color: white;
+background-color:#6F6F6F;
+padding:10px;
+
+}
+
